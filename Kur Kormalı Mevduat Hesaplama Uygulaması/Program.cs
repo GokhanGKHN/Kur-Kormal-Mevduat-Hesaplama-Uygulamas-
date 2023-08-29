@@ -22,10 +22,23 @@
             decimal sonuc = Fark * KapanışKuru;
 
             Console.WriteLine(sonuc);
+
+             
            
             
 
 
         }
+
+         
+
     }
+
+    
+
+
+
+
+
+
 }
